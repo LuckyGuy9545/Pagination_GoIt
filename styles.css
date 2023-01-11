@@ -24,6 +24,11 @@ p {
   cursor: pointer;
 }
 
+.btn__link {
+  color: yellow;
+  text-decoration: none;
+}
+
 .posts {
   margin: 0;
   list-style: none;
